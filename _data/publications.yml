@@ -5,7 +5,7 @@ main:
     conference_short: IAVVC
     conference: IEEE International Automated Vehicle Validation Conference <strong>(IAVVC)</strong>, 2025.
     page: https://2025.iavvc.org/
-    image: ./assets/img/iavvc2025.pdf
+    image: ./assets/img/iavvc2025.png
     notes: Oral Presentation
 
   - title: Cross-Attention Enhanced Imitation Learning for End-to-end Autonomous Driving in Unprotected Turns
@@ -14,4 +14,4 @@ main:
     conference: International Conference on Intelligent Computing and its Emerging Application <strong>(ICEA)</strong>, 2024.
     page: https://doi.org/10.1145/3732437.3732764
     notes: Oral Presentation
-    image: ./assets/img/icea2024.pdf
+    image: ./assets/img/icea2024.png
