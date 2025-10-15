@@ -1,22 +1,17 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: State-Guided Spatial Cross-Attention for Enhanced End-to-End Autonomous Driving
+    authors: <strong>Dongyang Li</strong>, Ehsan Javanmardi, Manabu Tsukada
+    conference_short: IAVVC
+    conference: IEEE International Automated Vehicle Validation Conference <strong>(IAVVC)</strong>, 2025.
+    page: https://2025.iavvc.org/
+    image: ./assets/img/iavvc2025.pdf
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: Cross-Attention Enhanced Imitation Learning for End-to-end Autonomous Driving in Unprotected Turns
+    authors: <strong>Dongyang Li</strong>, Ehsan Javanmardi, Naren Bao, Manabu Tsukada
+    conference_short: ICEA
+    conference: International Conference on Intelligent Computing and its Emerging Application <strong>(ICEA)</strong>, 2024.
+    page: https://doi.org/10.1145/3732437.3732764
+    notes: Oral Presentation
+    image: ./assets/img/icea2024.pdf
