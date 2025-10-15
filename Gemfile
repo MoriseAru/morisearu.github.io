@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
+# Use Jekyll 4.4.x to match locally installed jekyll-4.4.1 and support Ruby 3.4
+gem "jekyll", "~> 4.4"
 
+# For local `jekyll serve` on Ruby 3+
 gem "webrick", "~> 1.8"
